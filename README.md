@@ -26,13 +26,13 @@
   
   [сейчас будет гиперссылка на рандомную статью из википедии] (https://ru.m.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%A1%D0%B0%D0%BC%D0%B0%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2_%D0%BD%D0%B0_%D0%90%D1%84%D1%80%D0%B0%D1%81%D0%B8%D0%B0%D0%B1%D0%B5#/random) 
   
-  [так а дальше надо что-то в кавычках написать] (https://ru.m.wikipedia.org/wiki/Ixeris_debilis#/random "мне уже ничего не поможет") 
+  [так а дальше надо что-то в кавычках написать](https://ru.m.wikipedia.org/wiki/Ixeris_debilis#/random "мне уже ничего не поможет") 
   
- ! [я на математике] (https://images.app.goo.gl/ujw9m9DgUAgNp76EA) 
+ ! [я на математике](https://images.app.goo.gl/ujw9m9DgUAgNp76EA) 
  
  #### внимание! таблица
  
- |:---|:---:|---:|
+ ---|:---:|---:
  надеюсь|сейчас|ничего не вылетит
  и это|всё|не зря
  нужно|ли|продолжать
